@@ -1,0 +1,62 @@
+{
+    "image_upload": "common/upload_image",
+    "upload_video": "common/upload_video",
+    "upload_file": "common/upload_file",
+    "login": "login",
+    "logout": "logout",
+    "forget_password": "forget-password",
+    "reset_password": "reset-password",
+    "get_profile": "profile",
+    "update_profile": "profile-update",
+    "change_password": "change-password",
+
+    "cms_store": "cms/store",
+    "cms_edit_get": "cms/get",
+
+    "our_contact_us_store": "our-contact-us/store",
+    "our_contact_us_edit_get": "our-contact-us/get",
+
+    "chat_store": "chat-store",
+    "chat_get": "chat-get",
+
+    "user_all_get": "user/getAll",
+    "user_get": "user/get",
+    "user_change_status": "user/change-status",
+    "user_change_status_email": "user/change-status-email",
+    "user_change_status_firebase": "user/change-status-firebase",
+    "user_delete": "user/delete",
+    "user_store": "user/store",
+    "user_edit_get": "user/edit-get",
+    "change_user_password": "user/changeUserPassword",
+
+    "social_media_get": "social-media/get",
+    "social_media_change_status": "social-media/change-status",
+    "social_media_delete": "social-media/delete",
+    "social_media_store": "social-media/store",
+    "social_media_edit_get": "social-media/edit-get",
+    "social_icon_type": "social-media/get-icon-type",
+
+    "setting_get": "setting/get",
+    "setting_change_status": "setting/change-status",
+    "setting_delete": "setting/delete",
+    "setting_store": "setting/store",
+    "setting_edit_get": "setting/edit-get",
+
+    "faq_get": "faq/get",
+    "faq_change_status": "faq/change-status",
+    "faq_delete": "faq/delete",
+    "faq_store": "faq/store",
+    "faq_edit_get": "faq/edit-get",
+
+    "category_get": "category/get",
+    "category_change_status": "category/change-status",
+    "category_delete": "category/delete",
+    "category_store": "category/store",
+    "category_edit_get": "category/edit-get",
+
+    "contact_us_get": "contact-us/get",
+    "contact_us_change_status": "contact-us/change-status",
+    "contact_us_delete": "contact-us/delete",
+    "contact_us_store": "contact-us/store",
+    "contact_us_edit_get": "contact-us/edit-get"
+}
